@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
+     viewBox="0 0 24 24" fill="none">
+  <!-- back document (bottom-right) -->
+  <rect x="8" y="6" width="10" height="14" rx="1.2"
+        fill="#fff" stroke="#111" stroke-width="1.4"/>
+
+  <!-- front document (top-left) -->
+  <rect x="4" y="3" width="10" height="14" rx="1.2"
+        fill="#fff" stroke="#111" stroke-width="1.4"/>
+
+  <!-- header block (front) -->
+  <rect x="5.7" y="4.6" width="6.6" height="2.6" rx="0.4" fill="#e3e3e3"/>
+
+  <!-- inner lines (front, lighter + thinner) -->
+  <line x1="5.8" y1="9.0" x2="12.0" y2="9.0"
+        stroke="#7a7a7a" stroke-width="0.6" stroke-linecap="round"/>
+  <line x1="5.8" y1="11.0" x2="11.2" y2="11.0"
+        stroke="#7a7a7a" stroke-width="0.6" stroke-linecap="round"/>
+
+  <!-- small block (front) -->
+  <rect x="5.7" y="12.5" width="3.6" height="2.6" rx="0.4" fill="#d2d2d2"/>
+</svg>
